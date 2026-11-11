@@ -1,0 +1,4 @@
+# schema: id:INT:pk, name:STRING, city:STRING, founded:DATE
+1|'Barcelona'|'Barcelona'|1899-11-29
+2|'Real Madrid'|'Madrid'|1902-03-06
+3|'Man United'|'Manchester'|1878-01-01

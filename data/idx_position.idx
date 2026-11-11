@@ -1,0 +1,3 @@
+# index: idx_position | table: players | column: position
+'Midfielder'|com.minidb.model.Row@3af49f1c
+'Forward'|com.minidb.model.Row@19469ea2
